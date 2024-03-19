@@ -1,6 +1,6 @@
 # Projeto Hackathon 5 - Plataforma de Agendamento de Serviços
 
-Este é o repositório oficial do projeto desenvolvido pela equipe Da Vinci para o Hackathon 5. Nosso objetivo foi criar uma plataforma onde profissionais podem cadastrar seus serviços e disponibilizar horários em uma agenda, facilitando o agendamento de serviços de forma fácil e online para os usuários.
+Este é o perfil oficial do projeto desenvolvido pela equipe Da Vinci para o Hackathon 5. Nosso objetivo foi criar uma plataforma onde profissionais podem cadastrar seus serviços e disponibilizar horários em uma agenda, facilitando o agendamento de serviços de forma fácil e online para os usuários.
 
 ## Membros da Equipe
 - Thiago
